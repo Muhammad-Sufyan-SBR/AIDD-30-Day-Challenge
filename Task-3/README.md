@@ -41,6 +41,23 @@ model set gemini-3-pro-preview
 
 4. CLI software update nahi karna, sirf model update karna hai.
 
+### Screenshots
+
+**Before Model Update:**
+![Before Model Update](screenshots/befor%20model%20update.png)
+
+**After Model Update:**
+![After Model Update](screenshots/after%20update%20model.png)
+
+**Models:**
+![Models](screenshots/models.png)
+
+**Preview Feature:**
+![Preview Feature](screenshots/preview%20feature.png)
+
+**Stats:**
+![Stats](screenshots/stats.png)
+
 ---
 
 ★ Additional Research – Gemini CLI Model System & Auto Fallback
