@@ -112,6 +112,3 @@ Iska matlab ye hai ke aap apni preference de sakte hain, lekin system ki taraf s
 
 ---
 
-Aap ab is content ko apni repo ke Task-3/README.md file me paste karen aur commit & push kar den.
-
-Agar chahiye to main commit message bhi suggest kar doon.
