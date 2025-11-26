@@ -1,3 +1,89 @@
+# 🤖 AI-Driven Development 30-Day Challenge – Task 4
+*Assignment Type:* Practical Project
+*Marks:* 10
+*Deadline:* 48 Hours
+*Class Slot:* Friday 6:00 PM to 9:00 PM
+
+---
+
+## 📌 Task 4: Context7 MCP Server Integration & AI Study Agent Development
+
+### 1. What Are MCP Servers?
+
+MCP (Model Context Protocol) servers act as bridges between your AI model or CLI and the tools you want to use. They provide controlled access to:
+
+- Files
+- Local functions
+- External systems like Github, Firebase, etc.
+
+In simple terms, MCP servers give Gemini CLI the *"tools"* to perform real actions, beyond just replying with text.
+
+---
+
+### 2. Why MCP Servers Are Useful?
+
+- Instantly add new abilities to AI models.
+- Follow a standard format for easy integration across systems.
+- Remove manual wiring of every tool, simplifying setup.
+- Make your AI setup modular and maintainable.
+- Allow students to build agents without deep backend coding.
+
+---
+
+### 3. The Problem with Gemini CLI
+
+- Gemini CLI alone cannot create full agents.
+- Lacks strong agent-building support, causing frustration and limitations.
+
+---
+
+### 4. The Solution: Context7 MCP Server
+
+- [Context7](https://context7.com) is a *complete MCP server* exposing powerful tools and auto-updating documentation.
+- Supports Python, OpenAgents SDK, Supabase, FastAPI, and other modern frameworks.
+- Keeps Gemini CLI agent-building error-free and up to date.
+- Eliminates the hassle of checking multiple documentation sources.
+
+---
+
+### 5. Task Objective: Connecting Context7 MCP Server to Gemini CLI
+
+- Follow the [MCP Server Setup Guide](https://www.notion.so/Personalization-Chatbot-with-Chainla-26764465197680728913d:57ee7d1803) to connect Context7 MCP Server with Gemini CLI.
+- This connection enables your AI agent to access powerful tools needed for the next practical task.
+
+---
+
+### 6. Practical Task: Build the Study Notes Summarizer & Quiz Generator Agent
+
+Using *OpenAgents SDK, **Streamlit, **PyPDF, **Context7 MCP, and **Gemini CLI*, create an agent that:
+
+- *PDF Summarizer:*
+  - User uploads a PDF.
+  - Text is extracted using PyPDF.
+  - Agent generates a clean, meaningful summary with customizable UI display.
+
+- *Quiz Generator:*
+  - After summarization, user clicks *Create Quiz*.
+  - Agent reads the original PDF and generates multiple-choice or mixed-style quizzes.
+
+---
+
+### 7. Deliverables
+
+- Fully deployed Study Notes Summarizer & Quiz Generator agent.
+- GitHub repository with source code and README.
+- Screenshot of Gemini CLI prompt used during agent creation.
+- Evidence of successful MCP server connection.
+
+![MCP Server Connected](mcp.png)
+
+---
+
+### 8. Important Links
+
+- Context7 Website: [https://context7.com](https://context7.com)
+- MCP Server Setup Guide: [Notion Guide](https://www.notion.so/Personalization-Chatbot-with-Chainla-26764465197680728913d:57ee7d1803)
+
 # 📚 Professional AI Study Agent
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
